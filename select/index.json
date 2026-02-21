@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "LOCO",
+  "base_artist": "ITZY",
+  "createdAt": "2026-02-21T17:06:56.221872Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Balada Para un Loco",
+      "artist": "Roberto Goyeneche & Astor Piazzolla",
+      "has_synced": false,
+      "path": "select/01_Balada_Para_un_Loco_Roberto_Goyeneche_&_Astor_Piazzolla.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loco",
+      "artist": "Andrés Calamaro",
+      "has_synced": true,
+      "path": "select/02_Loco_Andrés_Calamaro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loco (Tu Forma De Ser)",
+      "artist": "Los Auténticos Decadentes",
+      "has_synced": true,
+      "path": "select/03_Loco_(Tu_Forma_De_Ser)_Los_Auténticos_Decadentes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Loco de atar",
+      "artist": "La Zimbabwe",
+      "has_synced": false,
+      "path": "select/04_Loco_de_atar_La_Zimbabwe.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Loco por Ti",
+      "artist": "Andrés Calamaro",
+      "has_synced": true,
+      "path": "select/05_Loco_por_Ti_Andrés_Calamaro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Loco, Coco",
+      "artist": "Virus",
+      "has_synced": true,
+      "path": "select/06_Loco,_Coco_Virus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loco Ono",
+      "artist": "Bassnectar",
+      "has_synced": true,
+      "path": "select/07_Loco_Ono_Bassnectar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Loco Contigo (feat. J. Balvin & Tyga)",
+      "artist": "DJ Snake feat. J Balvin & Tyga",
+      "has_synced": true,
+      "path": "select/08_Loco_Contigo_(feat._J._Balvin_&_Tyga)_DJ_Snake_feat._J_Balvin_&_Tyga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Loco Contigo (feat. J Balvin & Tyga)",
+      "artist": "DJ Snake",
+      "has_synced": true,
+      "path": "select/09_Loco_Contigo_(feat._J_Balvin_&_Tyga)_DJ_Snake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Magnets (Loco Dice Remix)",
+      "artist": "Disclosure feat. Lorde",
+      "has_synced": false,
+      "path": "select/10_Magnets_(Loco_Dice_Remix)_Disclosure_feat._Lorde.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Viento Loco",
+      "artist": "Git",
+      "has_synced": true,
+      "path": "select/11_Viento_Loco_Git.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Loco-Motion",
+      "artist": "Grand Funk Railroad",
+      "has_synced": true,
+      "path": "select/12_The_Loco-Motion_Grand_Funk_Railroad.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Loco‐Motion",
+      "artist": "Grand Funk Railroad",
+      "has_synced": true,
+      "path": "select/13_The_Loco‐Motion_Grand_Funk_Railroad.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Loco in Acapulco",
+      "artist": "Four Tops",
+      "has_synced": false,
+      "path": "select/14_Loco_in_Acapulco_Four_Tops.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Loco",
+      "artist": "Coal Chamber",
+      "has_synced": true,
+      "path": "select/15_Loco_Coal_Chamber.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Loco - Demo",
+      "artist": "Coal Chamber",
+      "has_synced": false,
+      "path": "select/16_Loco_-_Demo_Coal_Chamber.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOCO",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_LOCO_ITZY.txt"
+    }
+  ]
+}
